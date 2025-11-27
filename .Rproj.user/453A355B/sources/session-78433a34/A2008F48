@@ -1,0 +1,26 @@
+{
+    "id": "A2008F48",
+    "path": "~/Desktop/SPI package repo/SPI/R/spi_help.R",
+    "project_path": "R/spi_help.R",
+    "type": "r_source",
+    "hash": "66949574",
+    "contents": "",
+    "dirty": false,
+    "created": 1764272290248.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "36,0",
+        "scrollLine": "11"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1764272306,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1764272306235,
+    "read_only": false,
+    "read_only_alternatives": []
+}
