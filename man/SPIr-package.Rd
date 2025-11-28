@@ -3,7 +3,6 @@
 \docType{package}
 \name{SPIr-package}
 \alias{SPIr-package}
-\alias{SPIr}
 \title{SPIr: Segment Pivotality Index for Hierarchical Electoral Data}
 \description{
 The SPIr package provides tools to compute and analyse the Segment
@@ -32,6 +31,10 @@ Main functions:
 \item \code{\link{plot_spi_distribution}} – visualise SPI distributions.
 \item \code{\link{spi_help}} – print a short usage guide and workflow.
 }
+
+This documentation entry supplements the package title and description
+defined in the DESCRIPTION file. See the linked functions above for
+concrete examples and usage.
 }
 \seealso{
 Useful links:
