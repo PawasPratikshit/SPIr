@@ -1,5 +1,3 @@
----
-
 # SPIr: Segment Pivotality Index for Hierarchical Electoral Data
 
 **SPIr** provides tools to compute and analyse the **Segment Pivotality Index (SPI)** for hierarchical electoral systems, such as Assembly Constituencies (ACs) nested within Parliamentary Constituencies (PCs).
