@@ -24,10 +24,8 @@
 #'   \item \code{\link{spi_help}} – print a short usage guide and workflow.
 #' }
 #'
-#' @details
-#' This documentation entry supplements the package title and description
-#' defined in the DESCRIPTION file. See the linked functions above for
-#' concrete examples and usage.
-#'
-#' @keywords internal
-"_PACKAGE"
+#' @docType package
+#' @name SPIr-package
+#' @aliases SPIr SPIr-package
+NULL
+
