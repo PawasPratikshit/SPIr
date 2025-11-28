@@ -7,7 +7,6 @@ Authors@R:
       family = "Pratikshit",
       email = "pawas2480@gmail.com",
       role = c("aut", "cre"),
-      comment = c(https://pawaspratikshit.github.io/)
     )
 Description: 
     The SPIr package provides tools for computing and analyzing the Segment 
