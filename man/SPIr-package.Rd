@@ -2,11 +2,10 @@
 % Please edit documentation in R/zzz.R
 \docType{package}
 \name{SPIr-package}
-\alias{SPIr}
 \alias{SPIr-package}
-\title{SPIr: What the Package Does (One Line, Title Case)}
+\title{SPIr: Compute and Analyze the Segment Pivotality Index (SPI) for Hierarchical Electoral Data}
 \description{
-What the package does (one paragraph).
+The SPIr package provides tools for computing and analyzing the Segment Pivotality Index (SPI), a diagnostic measure designed for hierarchical electoral systems in which intermediate units (e.g., Assembly Constituencies) aggregate into larger electoral units (e.g., Parliamentary Constituencies). SPI quantifies how pivotal a sub-constituency is to determining the final outcome of its parent constituency, making it especially useful in settings where fine-grained, precinct-level results are unavailable. The package includes functions for calculating SPI, merging SPI estimates back into candidate-level data, summarizing SPI distributions, and generating visualizations for exploratory analysis. Although motivated by the Indian electoral context, SPIr is generalizable to any multi-tier electoral system or hierarchical dataset.
 }
 \seealso{
 Useful links:
@@ -17,7 +16,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com}
+\strong{Maintainer}: Pawas Pratikshit \email{pawas2480@gmail.com}
 
 }
 \keyword{internal}
