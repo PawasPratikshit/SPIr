@@ -105,9 +105,3 @@ If you use SPIr in your research, please cite:
 Issues, feature requests, and pull requests are welcome:
 
 [https://github.com/PawasPratikshit/SPIr/issues](https://github.com/PawasPratikshit/SPIr/issues)
-
----
-
-### End of README
-
----
